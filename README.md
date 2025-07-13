@@ -4,8 +4,6 @@
 https://13413.kstore.space/QingMusic/music.json
 
 （复制上方音源网址，打开APP-我的-导入音源配置，粘贴到输入框中，确认导入即可）
-## TG交流群
-https://t.me/+VMVvTvBB7fs3NGU9
 ## 软件最新版下载：
 https://github.com/kejichangqing/QingMusic/releases
 ## 下载选择
